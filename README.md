@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Jordi
 
-<!--
-**jorxye/jorxye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎮 I lead digital projects focused on the FiveM ecosystem through **TEMPESTA GROUP**, where I manage and coordinate the development of communities, custom systems, and online platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏛️ **TEMPESTA GROUP** — Organization dedicated to building and managing FiveM projects and digital communities.
+
+📈 **EVOLVE MEDIA DIGITAL** — Digital marketing agency currently inactive for new clients, but still available for previous clients and ongoing collaborations.
+
+🤝 Always interested in connecting with people working on gaming communities, digital products, and innovative online projects.
+
+## 🌐 Projects
+
+- 🎮 **TEMPESTA GROUP** — https://tempesta.es
+- 📊 **EVOLVE MEDIA DIGITAL** — https://evolvemd.es
+
+## 📬 Contact
+
+- 🌐 https://tempesta.es
+- 📧 jordi@evolvemd.es
+- 💬 Discord: jorxye
